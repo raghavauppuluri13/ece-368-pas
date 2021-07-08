@@ -1,3 +1,3 @@
-# Programming Assignment #1 for ECE 368
+# PA #1
 
 Checkout description.pdf for more info about the problem.
